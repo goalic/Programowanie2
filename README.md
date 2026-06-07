@@ -4,7 +4,7 @@ Wybrany zbiór danych: Video_Game_Sales_as_of_Jan_2017.csv
 
 
 Zbiór danych zawiera 17415 wierszy (gry) i 15 kolumn, opisujących różne właściwości gier:
-Name (potem usunięty do dalszej analizy) - Platform (Nintendo/PC/PS itp.) - Year_of_Realease (1991 - 2009) - NA/EU/JP/Other/Global_Sales (w milionach) - Critic/User_Count - Critic/User_Score
+Name (potem usunięty do dalszej analizy) - Platform (Nintendo/PC/PS itp.) - Year_of_Release (1991 - 2009) - NA/EU/JP/Other/Global_Sales (w milionach) - Critic/User_Count - Critic/User_Score
 
 
 Celem analizy jest przewidywanie zmiennej Global_Sales - stała się ona zmienną przewidywaną (fred_Y), oddzieloną od zmiennych przewidujących (fred_X).
