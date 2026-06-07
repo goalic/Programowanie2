@@ -21,7 +21,7 @@ Y_train: (13932,)
 Y_test: (3484,)
 
 
-Z uwagi na to, że Global_Sales jest zmienną numeryczną, ciągłą - a więc liniową - zastosowałam modele: Regresja Liniowa (model 1) oraz Random Forest Regressor (model 2)
+Z uwagi na to, że Global_Sales jest zmienną o postaci ciągu liczb, zastosowałam modele liniowe: Regresja Liniowa (model 1) oraz Random Forest Regressor (model 2)
 
 
 MODEL 1: REGRESJA LINIOWA
